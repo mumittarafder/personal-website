@@ -1,0 +1,122 @@
+
+.top-bar{
+    height: 100vh;
+    background-image: url("images/header-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.half-width{
+    float: left;
+    width: 40%;
+}
+.half-width img{
+    width: 80%;
+    margin-left: 100px;
+}
+.half-width h1{
+    color: #ffb6c1;
+    font-size: 40px;
+    margin: 0;
+}
+.half-width h2{
+    font-size: 40px;
+    margin: 0;
+}
+.half-width a{
+    text-decoration: none;
+    color: white;
+    padding: 11px 30px;
+    background-image: linear-gradient(45deg, #110fc7, #c12a2a);
+    font-weight: 700;
+    border-radius: 5px;
+}
+.half-width a{
+    margin-bottom: 25px;
+}
+.half-width p{
+    margin-bottom: 30px;
+}
+#top-left-section{
+    margin-top: 140px;
+    margin-left: 120px;
+}
+#about-me{
+    margin-left: 155px;
+    margin-top: 170px;
+}
+.about-area{
+    height: 100vh;
+    background-image: url("images/biography-bg.png");
+    background-size: cover;
+}
+.work-section{
+    margin-top: 10px;
+    width: 25%;
+    float: left;
+}
+.left-space{
+    margin-left: 170px;
+}
+.work-section img{
+    width: 100%;
+}
+.work-area h1{
+    font-size: 40px;
+    text-align: center;
+    color: lightseagreen;
+}
+.work-area{
+    height: 400px;
+    background-image: url("images/latest-work-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.reputation-area{
+    height: 550px;
+}
+.text-area{
+    text-align: center;
+    color: seagreen;
+    margin-bottom: 30px;
+}
+.text-area h1{
+    font-size: 40px;
+}
+.text-area h2{
+    font-size: 30px;
+}
+.text-area h3{
+    font-size: 20px;
+}
+.text-area p{
+    font-size: 15px;
+    font-weight: 700;
+}
+.msg-area{
+    text-align: center;  
+}
+.box{
+    width: 500px;
+    height: 250px;
+    margin: 0 auto;
+    background-image: linear-gradient(45deg, #24d8d0, #0ba22c);
+    box-shadow: 10px 10px 9px #0ca085;
+}
+.last-para{
+    padding-top: 85px;
+    color: white;
+    font-size: 24px;
+}
+#email{
+    color: #391dd4;
+    font-size: 30px;
+    margin: 0;
+}
+footer p{
+    text-align: center;
+    font-size: 25px;
+    color: yellow;
+    background-image: linear-gradient(45deg, black, transparent);
+    padding: 20px 20px;
+    margin: 0;
+}
